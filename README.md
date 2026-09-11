@@ -1,3 +1,9 @@
+"Simply Click This Link To See The  **Doctors Portal System**  Where We Will Implement The ML Approach"
+<br>
+<a href="https://github.com/ParvasHossain/doctors_portal_system">
+  <img src="https://img.shields.io/badge/Check_Out_My_Other_Repo-0055FF?style=flat-square&logo=github&logoColor=white" alt="Other Repo" />
+</a>
+
 # Machine Learning for Predictive Analytics in Healthcare
 
 ### Patient Appointments and Physician Billing
