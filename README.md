@@ -3,6 +3,9 @@
 <a href="https://github.com/ParvasHossain/doctors_portal_system">
   <img src="https://img.shields.io/badge/Check_Out_My_Other_Repo-0055FF?style=flat-square&logo=github&logoColor=white" alt="Other Repo" />
 </a>
+<p align="left">
+  <img src="diagrams/Data Flow Diagram.jpg" alt="Project Preview" width="600">
+</p>
 
 # Machine Learning for Predictive Analytics in Healthcare
 
